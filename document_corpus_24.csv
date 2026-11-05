@@ -1,0 +1,25 @@
+doc_id,title,category,year,source_url
+D01,Exploring new Approaches for Information Retrieval through Natural Language Processing,Information Retrieval,2025,https://arxiv.org/abs/2505.02199
+D02,Phishing Detection Leveraging Machine Learning and Deep Learning: A Review,Cybersecurity,2022,https://arxiv.org/abs/2205.07411
+D03,A Survey of Malware Detection Using Deep Learning,Cybersecurity,2024,https://arxiv.org/abs/2407.19153
+D04,Large Language Models for Information Retrieval: A Survey,Information Retrieval,2023,https://arxiv.org/abs/2308.07107
+D05,Search Engine Guided Neural Machine Translation,NLP,2017,https://arxiv.org/abs/1705.07267
+D06,Recent Advances in Generative AI for Healthcare Applications,Healthcare AI,2023,https://arxiv.org/abs/2310.00795
+D07,Deep Learning-based Intrusion Detection Systems: A Survey,Cybersecurity,2025,https://arxiv.org/abs/2504.07839
+D08,Phishing Webpage Detection: Unveiling the Threat Landscape and Investigating Detection Techniques,Cybersecurity,2025,https://arxiv.org/abs/2509.08424
+D09,Deep Learning Algorithms Used in Intrusion Detection Systems -- A Review,Cybersecurity,2024,https://arxiv.org/abs/2402.17020
+D10,A Survey of Long-Document Retrieval in the PLM and LLM Era,Information Retrieval,2025,https://arxiv.org/abs/2509.07759
+D11,Semantic Search for Information Retrieval,Information Retrieval,2025,https://arxiv.org/abs/2508.17694
+D12,Context-Aware Phishing Email Detection Using Machine Learning and NLP,Cybersecurity,2026,https://arxiv.org/abs/2603.27326
+D13,Explainable Machine Learning for Phishing Detection on Heterogeneous Datasets with MCP-Enabled Deployment,Cybersecurity,2026,https://arxiv.org/abs/2605.17891
+D14,Fake News and Phishing Detection Using a Machine Learning Trained Expert System,Cybersecurity,2021,https://arxiv.org/abs/2108.08264
+D15,Phishing Attacks Detection -- A Machine Learning-Based Approach,Cybersecurity,2022,https://arxiv.org/abs/2201.10752
+D16,Email Summarization to Assist Users in Phishing Identification,Cybersecurity,2022,https://arxiv.org/abs/2203.13380
+D17,Generative Relevance Feedback with Large Language Models,Information Retrieval,2023,https://arxiv.org/abs/2304.13157
+D18,Evolution of Semantic Similarity - A Survey,NLP,2021,https://arxiv.org/abs/2004.13820
+D19,Attention Is All You Need,NLP,2017,https://arxiv.org/abs/1706.03762
+D20,Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks,Information Retrieval,2019,https://arxiv.org/abs/1908.10084
+D21,Dense Passage Retrieval for Open-Domain Question Answering,Information Retrieval,2020,https://arxiv.org/abs/2004.04906
+D22,BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,NLP,2018,https://arxiv.org/abs/1810.04805
+D23,Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks,Information Retrieval,2020,https://arxiv.org/abs/2005.11401
+D24,secml-malware: Pentesting Windows Malware Classifiers with Adversarial EXEmples in Python,Cybersecurity,2021,https://arxiv.org/abs/2104.12848
